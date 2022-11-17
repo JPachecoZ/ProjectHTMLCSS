@@ -107,5 +107,60 @@ else {
     alert("Lo sentimos, has desaprobado el curso")
 }   */
 
+/// ! Sesión 16
 
+
+/// TODO Ejercicio 1
+
+/* let resta = function () {
+    numero1 = +prompt("Ingrese el primer número");
+    numero2 = +prompt("Ingrese el segundo número");
+    alert(`El resultado es ${numero1 - numero2}`);
+}
+
+resta() */
+
+
+/* let restar = function (x, y) {
+    return x - y;
+}
+
+let resultado = restar(15, 15);
+
+alert(`El resultado es ${resultado}`) */
+
+
+
+
+/// TODO: Ejercicio 2
+
+
+
+
+/* let farCel = function () {
+    farenheit = +prompt("Ingrese el numero de grados farenheit");
+    celcius = (farenheit - 32) * (5 / 9);
+    alert(`${celcius} ºC`);
+}
+
+farCel()  */
+
+/* let pasarCelsius = (grado) => {
+    return celsius = (grado - 32) * (5 / 9);
+}
+
+let result = pasarCelsius(150)
+alert(result) */
+
+/* /// TODO: Ejercicio 3
+
+function sumar() {
+    numero1 = +prompt("Ingrese el primer número");
+    numero2 = +prompt("Ingrese el segundo número");
+    suma = numero1 + numero2
+    alert(numero1 + "+" + numero2 + "=" + suma);
+};
+
+sumar()
+ */
 
